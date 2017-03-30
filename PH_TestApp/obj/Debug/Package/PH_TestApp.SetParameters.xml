@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <setParameter name="IIS Web Application Name" value="Default Web Site/" />
-  <setParameter name="DefaultConnection-Web.config Connection String" value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-PH_TestApp-20170319095100.mdf;Initial Catalog=aspnet-PH_TestApp-20170319095100;Integrated Security=True" />
-  <setParameter name="PH_TestEntities-Web.config Connection String" value="metadata=res://*/Models.Model1.csdl|res://*/Models.Model1.ssdl|res://*/Models.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=sqlserverex.cq6mcqvmw11x.ap-southeast-2.rds.amazonaws.com,1433;initial catalog=PH_Test;User Id=administrator;Password=dbpassword321;MultipleActiveResultSets=True;App=EntityFramework&quot;" />
-</parameters>

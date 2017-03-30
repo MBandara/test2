@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<sitemanifest>
-  <IisApp path="D:\Ashen\Developement\Mercurial\PH_Test\Source\PH_Test\PH_TestApp\obj\Debug\Package\PackageTmp" managedRuntimeVersion="v4.0" />
-  <setAcl path="D:\Ashen\Developement\Mercurial\PH_Test\Source\PH_Test\PH_TestApp\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
-  <setAcl path="D:\Ashen\Developement\Mercurial\PH_Test\Source\PH_Test\PH_TestApp\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
-</sitemanifest>
